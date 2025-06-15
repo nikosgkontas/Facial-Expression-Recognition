@@ -15,7 +15,6 @@ correlations, and outlier behavior.
 - Descriptive statistics for each feature
 - Visualization of distributions
 - Outlier analysis and discussion
-- Feature scaling
 - Correlation analysis
 - Visualizations of correlations 
 
@@ -24,4 +23,4 @@ correlations, and outlier behavior.
 - Visualizations revealed distribution shapes and outlier behavior
 - Outlier presence analyzed
 - Correlations between features explored with heatmaps and network graphs
-- Data prepared for further machine learning or statistical analysis
+- Data prepared for further machine learning and statistical analysis
