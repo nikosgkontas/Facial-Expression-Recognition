@@ -1,26 +1,33 @@
 # 1. Data Exploration
+## Goal
+To explore the distribution, range, relationships, and outlier characteristics of facial landmark data used for emotion recognition.
 
-### If the notebook does not show correctly:
-try nbviewer.org
+## Steps Performed
+**Data loading & cleaning**
 
-or visit the link:
-https://nbviewer.org/github/nikosgkontas/Facial-Expression-Recognition/blob/main/1.%20Data%20Exploration/1%20DATA%20EXPLORATION.ipynb
+**Descriptive statistics** (mean, std, quartiles, min, max, etc.)
 
-## Goal:
-Inspect the raw landmark vectors to characterize value ranges, empirical distributions, inter-feature 
-correlations, and outlier behavior.
+**Visualization** (histograms, boxplots) for each feature
 
-## Steps included:
-- Data loading and cleaning
-- Descriptive statistics for each feature
-- Visualization of distributions
-- Outlier analysis and discussion
-- Correlation analysis
-- Visualizations of correlations 
+**Outlier analysis** with discussion on their potential significance
 
-## Results
-- Statistical summaries provided insight into central tendency and spread
-- Visualizations revealed distribution shapes and outlier behavior
-- Outlier presence analyzed
-- Correlations between features explored with heatmaps and network graphs
-- Data prepared for further machine learning and statistical analysis
+**Correlation analysis** (using heatmaps and network graphs) to reveal inter-feature dependencies
+
+**Preparation of the dataset** for downstream machine learning tasks
+
+## Key Results
+**Statistical summaries** provided insight into the typical values and spread for all facial features.
+
+**Visualizations** helped to uncover skewness, non-normality, and the presence of outliers in the data.
+
+**Outlier analysis** indicated that some individuals exhibit much stronger facial expressivity, especially in the 'SURPRISE' category, but outliers are present in all classes; therefore, outliers were retained for integrity.
+
+**Correlation heatmaps**  highlighted which facial features are most strongly related, suggesting possible redundancy or multicollinearity in certain measurements.
+
+**Data is now ready** for feature selection, synthetic data generation, and machine learning analysis.
+
+**Technical Note:**
+If this notebook does not render correctly on GitHub, use nbviewer.org.
+
+**Data Ethics:**
+No original or identifiable data is included in this repository. Only aggregate summaries and synthetic data are used.
