@@ -2,9 +2,11 @@
 Use exploratory data analysis and both supervised and unsupervised machine learning models to determine  how much emotional information is contained in 25 facial expression landmark measurements. 
 
 ## Data: 
-We will use the Cohn-Kanade facial expression database (https://www.cs.cmu.edu/~face/database.htm). 
+We will use synthetic data that mimic the Cohn-Kanade facial expression dataset. 
+(https://www.cs.cmu.edu/~face/database.htm). 
+All the models's training, validation and testing will be done with synthetic data only.
 
-The dataset contains 210 instances, each one consisting of 25 measurements grouped by facial region: 
+The original dataset contains 210 instances, each one consisting of 25 measurements grouped by facial region: 
 
 • Left eyebrow: H1, H2, H3, H4, L1 
 
