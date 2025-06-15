@@ -3,13 +3,21 @@ Use exploratory data analysis and both supervised and unsupervised machine learn
 
 ## Data: 
 We will use the Cohn-Kanade facial expression database (https://www.cs.cmu.edu/~face/database.htm). 
+
 The dataset contains 210 instances, each one consisting of 25 measurements grouped by facial region: 
+
 • Left eyebrow: H1, H2, H3, H4, L1 
+
 • Right eyebrow: H5, H6, H7, H8, L2 
+
 • Left eye: H9, H10, W1 
+
 • Right eye: H11, H12, W2 
+
 • Mouth: H13, H14, H15, W3, L3 
+
 • Inter-region relationships: R1, R2, R3, R4 
+
 Each record is labelled with an “Expression” field that can take one of seven emotion classes:  
 NEUTRAL, DISGUST, SADNESS, FEAR, SURPRISE, ANGER, or JOY. 
 
