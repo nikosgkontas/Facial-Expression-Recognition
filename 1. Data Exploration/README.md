@@ -1,9 +1,9 @@
 # 1. Data Exploration
-Goal:
+## Goal:
 Inspect the raw landmark vectors to characterize value ranges, empirical distributions, inter-feature 
 correlations, and outlier behavior.
 
-Steps included:
+## Steps included:
 - Data loading and cleaning
 - Descriptive statistics for each feature
 - Visualization of distributions
@@ -12,7 +12,7 @@ Steps included:
 - Correlation analysis
 - Visualizations of correlations 
 
-Results
+## Results
 - Statistical summaries provided insight into central tendency and spread
 - Visualizations revealed distribution shapes and outlier behavior
 - Outlier presence analyzed
