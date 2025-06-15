@@ -55,8 +55,7 @@ The dataset used for this analysis was provided through institutional access gra
 You may not redistribute, publish, or sell the dataset or any derivatives that could allow reconstruction of the original data or identities.
 You may share your code, analysis pipeline, and aggregate statistical results (but not the original data) for academic and non-commercial purposes.
 
-### Citation and Terms of Use
-If you use or reference this repository, please cite the work of the researchers.
+### Citations
 
 T. Kanade, J. F. Cohn and Yingli Tian, "Comprehensive database for facial expression analysis," Proceedings Fourth IEEE International Conference on Automatic Face and Gesture Recognition (Cat. No. PR00580), Grenoble, France, 2000, pp. 46-53, doi: 10.1109/AFGR.2000.840611.
 
