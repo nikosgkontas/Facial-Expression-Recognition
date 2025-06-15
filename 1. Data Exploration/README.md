@@ -2,6 +2,7 @@
 
 ### If the notebook does not show correctly:
 try nbviewer.org
+
 or visit the link:
 https://nbviewer.org/github/nikosgkontas/Facial-Expression-Recognition/blob/main/1.%20Data%20Exploration/1%20DATA%20EXPLORATION.ipynb
 
