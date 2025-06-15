@@ -3,7 +3,7 @@
 To explore the distribution, range, relationships, and outlier characteristics of facial landmark data used for emotion recognition.
 
 ## Steps Performed
--**Data loading & cleaning**
+- **Data loading & cleaning**
 
 -**Descriptive statistics** (mean, std, quartiles, min, max, etc.)
 
