@@ -35,13 +35,13 @@ expression classes.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-## Legal Disclaimer:
+### Legal Disclaimer:
 
 This repository contains code and analysis pipelines for facial expression recognition using the Cohn-Kanade dataset. 
 No original images or identifiable data from the dataset are included or redistributed in this repository. 
 All visualizations and statistical summaries (means, standard deviations, histograms, boxplots, correlation matrices, etc.) are based on aggregate data and are intended strictly for academic and research purposes.
 
-## Dataset access:
+### Dataset access:
 
 The dataset used for this analysis was provided through institutional access granted by my university for academic research as part of my master's degree studies. Use of the dataset complies with all university and dataset provider terms.
 You may not redistribute, publish, or sell the dataset or any derivatives that could allow reconstruction of the original data or identities.
