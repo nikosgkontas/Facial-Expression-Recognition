@@ -35,33 +35,35 @@ expression classes.
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-Legal Disclaimer:
-This repository contains code and analysis pipelines for facial expression recognition using the Cohn-Kanade (CK/CK+) dataset. 
-No original images or identifiable data from the CK dataset are included or redistributed in this repository. 
+## Legal Disclaimer:
+
+This repository contains code and analysis pipelines for facial expression recognition using the Cohn-Kanade dataset. 
+No original images or identifiable data from the dataset are included or redistributed in this repository. 
 All visualizations and statistical summaries (means, standard deviations, histograms, boxplots, correlation matrices, etc.) are based on aggregate data and are intended strictly for academic and research purposes.
 
-Dataset access:
-The CK/CK+ dataset used for this analysis was provided through institutional access granted by my university for academic research as part of my master's degree studies. Use of the dataset complies with all university and dataset provider terms.
+## Dataset access:
+
+The dataset used for this analysis was provided through institutional access granted by my university for academic research as part of my master's degree studies. Use of the dataset complies with all university and dataset provider terms.
 You may not redistribute, publish, or sell the dataset or any derivatives that could allow reconstruction of the original data or identities.
 You may share your code, analysis pipeline, and aggregate statistical results (but not the original data) for academic and non-commercial purposes.
 
-Citation and Terms of Use
-If you use or reference this repository, please cite the following papers:
+### Citation and Terms of Use
+If you use or reference this repository, please cite the work of the researchers.
 
 Kanade, T., Cohn, J. F., & Tian, Y. (2000). Comprehensive database for facial expression analysis. Proceedings Fourth IEEE International Conference on Automatic Face and Gesture Recognition (Cat. No. PR00580), 46–53. doi:10.1109/AFGR.2000.840611
 
 Lucey, P., Cohn, J. F., Kanade, T., Saragih, J., Ambadar, Z., & Matthews, I. (2010). The Extended Cohn-Kanade Dataset (CK+): A complete dataset for action unit and emotion-specified expression. 2010 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Workshops, 94–101. doi:10.1109/CVPRW.2010.5543262
 
 
-Do’s:
+### Do’s:
 
 Use this repository and code for academic, research, or educational purposes.
 
 Share your analysis code and summary statistics (not the data) with proper citation.
 
-Don’ts:
+### Don’ts:
 
-Do not upload or share the original CK/CK+ dataset or any data enabling reconstruction of individual identities.
+Do not upload or share the original dataset or any data enabling reconstruction of individual identities.
 
 Do not use this repository or the underlying dataset for commercial purposes.
 
